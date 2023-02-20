@@ -37,3 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=tokyonight&locale=en" alt="rachitsharma300" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=highcontrast" alt="rachitsharma300" /></p>
+
+
+![snake gif](https://github.com/rachitsharma300/rachitsharma300/blob/output/github-contribution-grid-snake.gif)
+
